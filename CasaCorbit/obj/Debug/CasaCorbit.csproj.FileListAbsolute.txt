@@ -1,0 +1,7 @@
+C:\Users\sears\Desktop\Casa maldita Corbit\CasaCorbit\CasaCorbit\obj\Debug\CasaCorbit.csprojResolveAssemblyReference.cache
+C:\Users\sears\Desktop\Casa maldita Corbit\CasaCorbit\CasaCorbit\obj\Debug\CasaCorbit.csproj.CoreCompileInputs.cache
+C:\Users\sears\Desktop\Casa maldita Corbit\CasaCorbit\CasaCorbit\bin\Debug\CasaCorbit.exe.config
+C:\Users\sears\Desktop\Casa maldita Corbit\CasaCorbit\CasaCorbit\bin\Debug\CasaCorbit.exe
+C:\Users\sears\Desktop\Casa maldita Corbit\CasaCorbit\CasaCorbit\bin\Debug\CasaCorbit.pdb
+C:\Users\sears\Desktop\Casa maldita Corbit\CasaCorbit\CasaCorbit\obj\Debug\CasaCorbit.exe
+C:\Users\sears\Desktop\Casa maldita Corbit\CasaCorbit\CasaCorbit\obj\Debug\CasaCorbit.pdb
